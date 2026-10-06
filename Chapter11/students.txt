@@ -1,0 +1,7 @@
+Name: Zubair, Grade Level: 12, Semester: 1, Grades: 15.0, 53.0, 100.0, 100.0, Average: 67%
+Name: Zubair, Grade Level: 12, Semester: 1, Grades: 15.0, 53.0, 100.0, 100.0, Average: 67%
+Name: Zubair, Grade Level: 12, Semester: 1, Grades: 15.0, 53.0, 100.0, 99.0, Average: 66.8%
+Name: Zubair, Grade Level: 12, Semester: 1, Grades: 50.0, 53.0, 100.0, 100.0, Average: 75.8%
+Name: Zubair, Grade Level: 12, Semester: 1, Grades: 99.0, 53.0, 100.0, 100.0, Average: 88%
+Name: Zubair, Grade Level: 12, Semester: 1, Grades: 99.0, 53.0, 100.0, 100.0, Average: 88%
+Name: Zubair, Grade Level: 12, Semester: 1, Grades: 99.0, 53.0, 100.0, 100.0, Average: 88%
