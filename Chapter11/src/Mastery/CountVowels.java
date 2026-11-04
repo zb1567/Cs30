@@ -8,7 +8,7 @@ public class CountVowels {
         Scanner input = new Scanner(System.in);
 
         System.out.print("Enter the text file name: ");
-        String fileName = input.nextLine();
+                                                                                                                                                                                            String fileName = input.nextLine();
 
         int vowels = 0;
 
